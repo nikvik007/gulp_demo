@@ -1,0 +1,33 @@
+{
+  "name": "angular_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9",
+    "connect-livereload": "^0.6.0",
+    "express": "^4.16.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-embedlr": "^0.5.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-util": "^3.0.8",
+    "tiny-lr": "^1.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "browserify": "^16.1.0",
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
